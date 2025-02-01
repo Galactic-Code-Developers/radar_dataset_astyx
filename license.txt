@@ -1,5 +1,6 @@
 
 Copyright (c) 2019 Astyx GmbH
+Copyright (c) 2023 - 2025 Antonios Valamontes, USA
 
 
 This work is licensed under a "Creative Commons
