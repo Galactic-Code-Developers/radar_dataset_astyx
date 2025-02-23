@@ -11,3 +11,9 @@ With applications in military defense, space security, and quantum-resistant enc
 #DefenseTech #AI #FractalRadar #HypersonicThreats #SpaceSecurity #QuantumEncryption #ElectronicWarfare
 
 Research Paper [Mathematical Model for Fractal-Based Space Defense Against ICBMs & Hypersonic Vehicles Paper #1719](<http://dx.doi.org/10.13140/RG.2.2.18958.06720>)
+
+## License
+
+[![Creative Commons License](<https://i.creativecommons.org/l/by/4.0/88x31.png>)](https://creativecommons.org/licenses/by/4.0/)
+
+Copyright © 2019-2025 [Galactic Code Developers](<https://gist.github.com/ChrisTollefson/](https://github.com/Galactic-Code-Developers>)
